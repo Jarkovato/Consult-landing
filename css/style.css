@@ -123,7 +123,7 @@ header {
 }
 
 .slider {
-  background-image: url('img/main-slide.png');
+  background-image: url('../img/main-slide.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -334,7 +334,7 @@ header {
 
 .about {
   position: relative;
-  background-image: url('img/about.jpg');
+  background-image: url('../img/about.jpg');
   background-size: cover;
   background-position: center center;
   min-height: 300px;
@@ -378,7 +378,7 @@ header {
 }
 .form__inner {
   padding-bottom: 40px;
-  background-image: url("img/form-bg.jpg");
+  background-image: url("../img/form-bg.jpg");
   min-height: 460px;
   background-repeat: no-repeat;
   background-position: bottom right;
@@ -498,7 +498,7 @@ header {
 
 .advantages {
   padding: 55px 0px 40px;
-  background-image: url('img/advantages-bg.jpg');
+  background-image: url("../img/advantages-bg.jpg");
   position: relative;
   background-repeat: no-repeat;
   background-position: center;
