@@ -1,1 +1,1 @@
-echo "# Consult-landing"
+Лэндинг абстрактной консалтинговой компании, написан для практики на чистом CSS + JQUERY. При верстке использовались плагины Slick, fancybox, jquery form styler и библиотека для иконок icomoon
